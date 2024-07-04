@@ -7,3 +7,4 @@ Types of Naive Bayes Classifiers
 2. Multinomial Naive Bayes: Used for discrete features such as word counts in text classification.
 3. Bernoulli Naive Bayes: Used for binary/boolean features.
 
+In the above code mentioned, we use the naive bayes algorithm to detect the spam emails from the dataset.
